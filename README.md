@@ -19,15 +19,17 @@ Boostrapped with [Vite](https://vitejs.dev/guide/)
 
 [x] Connect to peer & Open channel
 
-[ ] Show invoices
+[x] Show invoices
+
+[x] Show transactions
 
 ## TODO
+
+[ ] Invoice and Transaction paging
 
 [ ] Get an address to add onchain funds
 
 [ ] Show Pending channels
-
-[ ] Show transactions
 
 [ ] Close channels
 
